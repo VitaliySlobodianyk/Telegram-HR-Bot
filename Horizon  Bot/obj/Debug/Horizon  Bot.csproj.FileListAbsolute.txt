@@ -1,0 +1,35 @@
+C:\Users\Максим\Desktop\Horizon-Bot-master\Horizon  Bot\bin\Debug\Horizon  Bot.exe.config
+C:\Users\Максим\Desktop\Horizon-Bot-master\Horizon  Bot\bin\Debug\Horizon  Bot.exe
+C:\Users\Максим\Desktop\Horizon-Bot-master\Horizon  Bot\bin\Debug\Horizon  Bot.pdb
+C:\Users\Максим\Desktop\Horizon-Bot-master\Horizon  Bot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Максим\Desktop\Horizon-Bot-master\Horizon  Bot\bin\Debug\Telegram.Bot.dll
+C:\Users\Максим\Desktop\Horizon-Bot-master\Horizon  Bot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Максим\Desktop\Horizon-Bot-master\Horizon  Bot\bin\Debug\Telegram.Bot.xml
+C:\Users\Максим\Desktop\Horizon-Bot-master\Horizon  Bot\obj\Debug\Horizon  Bot.csprojAssemblyReference.cache
+C:\Users\Максим\Desktop\Horizon-Bot-master\Horizon  Bot\obj\Debug\Horizon  Bot.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\Horizon-Bot-master\Horizon  Bot\obj\Debug\Horizon  Bot.csproj.CopyComplete
+C:\Users\Максим\Desktop\Horizon-Bot-master\Horizon  Bot\obj\Debug\Horizon  Bot.exe
+C:\Users\Максим\Desktop\Horizon-Bot-master\Horizon  Bot\obj\Debug\Horizon  Bot.pdb
+D:\1Programing\HorizonBot\Horizon  Bot\bin\Debug\Horizon  Bot.exe.config
+D:\1Programing\HorizonBot\Horizon  Bot\bin\Debug\Horizon  Bot.exe
+D:\1Programing\HorizonBot\Horizon  Bot\bin\Debug\Horizon  Bot.pdb
+D:\1Programing\HorizonBot\Horizon  Bot\bin\Debug\Newtonsoft.Json.dll
+D:\1Programing\HorizonBot\Horizon  Bot\bin\Debug\Telegram.Bot.dll
+D:\1Programing\HorizonBot\Horizon  Bot\bin\Debug\Newtonsoft.Json.xml
+D:\1Programing\HorizonBot\Horizon  Bot\bin\Debug\Telegram.Bot.xml
+D:\1Programing\HorizonBot\Horizon  Bot\obj\Debug\Horizon  Bot.csproj.CoreCompileInputs.cache
+D:\1Programing\HorizonBot\Horizon  Bot\obj\Debug\Horizon  Bot.csproj.CopyComplete
+D:\1Programing\HorizonBot\Horizon  Bot\obj\Debug\Horizon  Bot.exe
+D:\1Programing\HorizonBot\Horizon  Bot\obj\Debug\Horizon  Bot.pdb
+C:\Users\Максим\Downloads\Telegram Desktop\Bot_Solution\HorizonBot\Horizon  Bot\bin\Debug\Horizon  Bot.exe.config
+C:\Users\Максим\Downloads\Telegram Desktop\Bot_Solution\HorizonBot\Horizon  Bot\bin\Debug\Horizon  Bot.exe
+C:\Users\Максим\Downloads\Telegram Desktop\Bot_Solution\HorizonBot\Horizon  Bot\bin\Debug\Horizon  Bot.pdb
+C:\Users\Максим\Downloads\Telegram Desktop\Bot_Solution\HorizonBot\Horizon  Bot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Максим\Downloads\Telegram Desktop\Bot_Solution\HorizonBot\Horizon  Bot\bin\Debug\Telegram.Bot.dll
+C:\Users\Максим\Downloads\Telegram Desktop\Bot_Solution\HorizonBot\Horizon  Bot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Максим\Downloads\Telegram Desktop\Bot_Solution\HorizonBot\Horizon  Bot\bin\Debug\Telegram.Bot.xml
+C:\Users\Максим\Downloads\Telegram Desktop\Bot_Solution\HorizonBot\Horizon  Bot\obj\Debug\Horizon  Bot.csprojAssemblyReference.cache
+C:\Users\Максим\Downloads\Telegram Desktop\Bot_Solution\HorizonBot\Horizon  Bot\obj\Debug\Horizon  Bot.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Downloads\Telegram Desktop\Bot_Solution\HorizonBot\Horizon  Bot\obj\Debug\Horizon  Bot.csproj.CopyComplete
+C:\Users\Максим\Downloads\Telegram Desktop\Bot_Solution\HorizonBot\Horizon  Bot\obj\Debug\Horizon  Bot.exe
+C:\Users\Максим\Downloads\Telegram Desktop\Bot_Solution\HorizonBot\Horizon  Bot\obj\Debug\Horizon  Bot.pdb

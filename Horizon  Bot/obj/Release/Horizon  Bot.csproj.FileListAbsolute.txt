@@ -1,0 +1,11 @@
+D:\1Programing\HorizonBot\Horizon  Bot\bin\Release\Horizon  Bot.exe.config
+D:\1Programing\HorizonBot\Horizon  Bot\bin\Release\Horizon  Bot.exe
+D:\1Programing\HorizonBot\Horizon  Bot\bin\Release\Horizon  Bot.pdb
+D:\1Programing\HorizonBot\Horizon  Bot\bin\Release\Newtonsoft.Json.dll
+D:\1Programing\HorizonBot\Horizon  Bot\bin\Release\Telegram.Bot.dll
+D:\1Programing\HorizonBot\Horizon  Bot\bin\Release\Newtonsoft.Json.xml
+D:\1Programing\HorizonBot\Horizon  Bot\bin\Release\Telegram.Bot.xml
+D:\1Programing\HorizonBot\Horizon  Bot\obj\Release\Horizon  Bot.csproj.CoreCompileInputs.cache
+D:\1Programing\HorizonBot\Horizon  Bot\obj\Release\Horizon  Bot.csproj.CopyComplete
+D:\1Programing\HorizonBot\Horizon  Bot\obj\Release\Horizon  Bot.exe
+D:\1Programing\HorizonBot\Horizon  Bot\obj\Release\Horizon  Bot.pdb
